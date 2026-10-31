@@ -23,6 +23,13 @@ four from the script, in one command, deterministically and offline.
 
 No API keys, no model calls, no network. Python standard library only.
 
+## Run it in the browser, no install
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/prajwalaswar/cutlist)
+
+One click opens a Linux terminal with the package installed and the tests ready. Nothing to set up
+locally. The dev container is in `.devcontainer/`, so the same environment works in VS Code.
+
 ## Install
 
 ```bash
