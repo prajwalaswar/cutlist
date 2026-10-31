@@ -1,5 +1,8 @@
 # cutlist
 
+[![ci](https://github.com/prajwalaswar/cutlist/actions/workflows/ci.yml/badge.svg)](https://github.com/prajwalaswar/cutlist/actions/workflows/ci.yml)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Turn a narration script into a production package: a second-accurate timing plan, SRT captions,
 resolved media cues, and constraint checks that fail the build before you sit down to edit.
 
